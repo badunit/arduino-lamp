@@ -1,10 +1,10 @@
-
-// +---- PROJECT SPHERE LAMP v1.0 -------+
-// |                                     |
-// |  Author: Fabio Corona - 2021        |
-// |                                     |
-// +-------------------------------------+
-
+/*
++---- PROJECT ARDUINO LAMP v1.0 ----+
+|                                   |
+|   Author: Fabio Corona - 2021     |
+|                                   |
++-----------------------------------+
+*/
 
 // ---- LIBRARIES IMPORTS ---- //
 
